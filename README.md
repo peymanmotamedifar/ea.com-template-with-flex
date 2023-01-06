@@ -8,10 +8,9 @@
 
 - Created - 2022
 
-- Technologies Used - Html , css , js , React.js
+- Technologies Used - Html , css , sass , flex
 
-- Hooks Used : useState 
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [instagram](https://www.instagram.com/peyman_web) and [linkedin](https://www.linkedin.com/in/peymanmotamedifar) and [website](https://www.peyman-web.ir)
